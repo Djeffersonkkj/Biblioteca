@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\repos\\Biblioteca\\Livraria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04B610EA-2B16-4D32-A170-00AB6821FD96}|Livraria\\Livraria.csproj|c:\\repos\\biblioteca\\livraria\\livraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B610EA-2B16-4D32-A170-00AB6821FD96}|Livraria\\Livraria.csproj|solutionrelative:livraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B610EA-2B16-4D32-A170-00AB6821FD96}|Livraria\\Livraria.csproj|c:\\repos\\biblioteca\\livraria\\livraria\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04B610EA-2B16-4D32-A170-00AB6821FD96}|Livraria\\Livraria.csproj|solutionrelative:livraria\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04B610EA-2B16-4D32-A170-00AB6821FD96}|Livraria\\Livraria.csproj|c:\\repos\\biblioteca\\livraria\\livraria\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{04B610EA-2B16-4D32-A170-00AB6821FD96}|Livraria\\Livraria.csproj|solutionrelative:livraria\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\Biblioteca\\Livraria\\Livraria\\Program.cs",
+              "RelativeDocumentMoniker": "Livraria\\Program.cs",
+              "ToolTip": "C:\\repos\\Biblioteca\\Livraria\\Livraria\\Program.cs",
+              "RelativeToolTip": "Livraria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T23:15:32.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "C:\\repos\\Biblioteca\\Livraria\\Livraria\\menu.cs",
+              "RelativeDocumentMoniker": "Livraria\\menu.cs",
+              "ToolTip": "C:\\repos\\Biblioteca\\Livraria\\Livraria\\menu.cs [Design]",
+              "RelativeToolTip": "Livraria\\menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:53:05.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\repos\\Biblioteca\\Livraria\\Livraria\\Login.cs",
               "RelativeDocumentMoniker": "Livraria\\Login.cs",

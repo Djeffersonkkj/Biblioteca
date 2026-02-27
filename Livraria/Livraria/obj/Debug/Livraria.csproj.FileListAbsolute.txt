@@ -8,3 +8,4 @@ C:\repos\Biblioteca\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource
 C:\repos\Biblioteca\Livraria\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
 C:\repos\Biblioteca\Livraria\Livraria\obj\Debug\Livraria.exe
 C:\repos\Biblioteca\Livraria\Livraria\obj\Debug\Livraria.pdb
+C:\repos\Biblioteca\Livraria\Livraria\obj\Debug\Livraria.menu.resources
